@@ -1,9 +1,13 @@
 The `index.html` file
-- should style the `rgb-color` class to the RGB equivalent of the color yellow
-- should style the `hex-color` class to the HEX equivalent of the color yellow
+- should style `narrow-text-area` class text so that it is centered on the page
+- should style `narrow-text-area` class text so that it is outlined with an orange solid 5px border
+- should style `text-box` class text so that it is backed with the color cyan behind the text
+- should style `text-box` class text so that it is padding the text with 5px on all sides
+- should style `text-box` class text so that it is surrounded with a margin of 10px on the top and bottom and 20px on the left and right
 
 Resources:
-- https://www.w3schools.com/colors/default.asp
-
-Building toward CSTA Standards:
-- Translate between different bit representations of real-world phenomena, such as characters, numbers, and images. (3A-DA-09) https://www.csteachers.org/page/standards
+- https://www.w3schools.com/css/css_border.asp
+- https://www.w3schools.com/css/css_border_width.asp
+- https://www.w3schools.com/css/css_border_color.asp
+- https://www.w3schools.com/css/css_margin.asp
+- https://www.w3schools.com/css/css_padding.asp
