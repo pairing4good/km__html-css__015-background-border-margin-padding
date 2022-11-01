@@ -1,3 +1,7 @@
+# 015 Background, Border, Margin and Padding
+
+[![015 Background, Border, Margin and Padding](https://img.youtube.com/vi/tgUwq9ImvyY/0.jpg)](https://www.youtube.com/watch?v=tgUwq9ImvyY)
+
 The `index.html` file
 - should style `narrow-text-area` class text so that it is centered on the page
 - should style `narrow-text-area` class text so that it is outlined with an orange solid 5px border
